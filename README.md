@@ -21,8 +21,8 @@ This Tool Is For Destroying Discord Servers And Any Copying Of The Source Is Pro
 -   [Python](https://www.python.org/downloads/release/python-3109/)
 ### Setup
 
-1. [Download source code zip](https://github.com/egkc7/HeX_Tools)
-2. Extract zip
-3. Run `install.bat`
-4. Run `start.bat`
-5. Enjoy🎉
+1. [Download source code zip](https://github.com/egkc7/Server-Nuker)
+2. Run `main.py`
+3. Server Image `sample.png`
+4. Edit `nuker.py`
+5. And Open `main.py`🎉

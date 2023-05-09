@@ -1,6 +1,5 @@
 # Server-Nuker
 This Tool Is For Destroying Discord Servers And Any Copying Of The Source Is Prohibited!
-<img src="image1.png" width="100%" height="100%" />
 
 ## Features
 -   Discord Tools

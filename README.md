@@ -2,22 +2,16 @@
 This Tool Is For Destroying Discord Servers And Any Copying Of The Source Is Prohibited!
 
 ## Features
--   Discord Tools
-    -   Nuke Token
-    -   Leave Server
-    -   Delete Friends
-    -   Delete Servers
-    -   Mass Dm
-    -   Close DMs
-    -   Create Servers
-    -   Block All Friends
-    -   Token Grabber
-    -   Get All Friends
-    -   Token Info
-    -   Token Checker
-    -   Fuck Account
-    -   Delete Webhook
-    -   Credits
+-   Discord Nuker
+    -   Change Profile Server
+    -   Change Name Server
+    -   Delete All Channel
+    -   Delete All Roles
+    -   Delete All Emoji
+    -   Creat Channel
+    -   Create Roles
+    -   Ban Members
+    -   Spam Message
     
 ## Install
 

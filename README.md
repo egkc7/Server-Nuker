@@ -8,7 +8,7 @@ This Tool Is For Destroying Discord Servers And Any Copying Of The Source Is Pro
     -   Delete All Channel
     -   Delete All Roles
     -   Delete All Emoji
-    -   Creat Channel
+    -   Create Channel
     -   Create Roles
     -   Ban Members
     -   Spam Message
